@@ -1,0 +1,44 @@
+2025-04-17 12:38:04,306 - Setting up the test.
+2025-04-17 12:38:04,308 - Sample data created.
+2025-04-17 12:38:04,309 - Running test_add_tilde.
+2025-04-17 12:38:04,310 - test_add_tilde passed.
+2025-04-17 12:38:04,311 - Setting up the test.
+2025-04-17 12:38:04,311 - Sample data created.
+2025-04-17 12:38:04,312 - Running test_calibrationdiagnosis.
+2025-04-17 12:38:04,420 - test_calibrationdiagnosis passed.
+2025-04-17 12:38:04,421 - Setting up the test.
+2025-04-17 12:38:04,422 - Sample data created.
+2025-04-17 12:38:04,423 - Running test_classwise_calibration.
+2025-04-17 12:38:04,517 - test_classwise_calibration passed.
+2025-04-17 12:38:04,518 - Setting up the test.
+2025-04-17 12:38:04,519 - Sample data created.
+2025-04-17 12:38:04,522 - Running test_compute_equal_mass_bin_heights.
+2025-04-17 12:38:04,522 - test_compute_equal_mass_bin_heights passed.
+2025-04-17 12:38:04,523 - Setting up the test.
+2025-04-17 12:38:04,524 - Sample data created.
+2025-04-17 12:38:04,525 - Running test_end_points.
+2025-04-17 12:38:04,526 - test_end_points passed.
+2025-04-17 12:38:04,527 - Setting up the test.
+2025-04-17 12:38:04,528 - Sample data created.
+2025-04-17 12:38:04,529 - Running test_h_triangle.
+2025-04-17 12:38:04,530 - test_h_triangle passed.
+2025-04-17 12:38:04,531 - Setting up the test.
+2025-04-17 12:38:04,531 - Sample data created.
+2025-04-17 12:38:04,532 - Running test_is_monotonic.
+2025-04-17 12:38:04,534 - test_is_monotonic passed.
+2025-04-17 12:38:04,535 - Setting up the test.
+2025-04-17 12:38:04,537 - Sample data created.
+2025-04-17 12:38:04,537 - Running test_monotonic_sweep_calibration.
+2025-04-17 12:38:04,538 - test_monotonic_sweep_calibration passed.
+2025-04-17 12:38:04,539 - Setting up the test.
+2025-04-17 12:38:04,540 - Sample data created.
+2025-04-17 12:38:04,540 - Running test_select_probability.
+2025-04-17 12:38:04,543 - test_select_probability passed.
+2025-04-17 12:38:04,546 - Setting up the test.
+2025-04-17 12:38:04,546 - Sample data created.
+2025-04-17 12:38:04,547 - Running test_split_probabilities.
+2025-04-17 12:38:04,548 - test_split_probabilities passed.
+2025-04-17 12:38:04,548 - Setting up the test.
+2025-04-17 12:38:04,549 - Sample data created.
+2025-04-17 12:38:04,550 - Running test_underbelow_line.
+2025-04-17 12:38:04,550 - test_underbelow_line passed.
